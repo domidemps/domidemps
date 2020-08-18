@@ -9,7 +9,7 @@ I'm Domitille Dempuré, software engineer since 2017.
 
 ### About me
 - :smiley: Pronouns: [She/Her](https://www.mypronouns.org/she-her)
-- :computer: Working as a web engineer on React/Redux and Flask
+- :computer: Working as a fullstack developer
 - :woman: Part of the community [Ladies of Code](https://ladiesofcodeparis.netlify.app/)
 - :earth_africa: Loving nature and ecology
 
